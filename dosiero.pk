@@ -1,0 +1,4 @@
+jen x = 11;
+jen y = 12;
+jen z = 13;
+finu(z);

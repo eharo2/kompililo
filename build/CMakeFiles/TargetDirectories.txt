@@ -1,0 +1,3 @@
+/Users/enriqueharo/github/kompililo/build/CMakeFiles/kompililo.dir
+/Users/enriqueharo/github/kompililo/build/CMakeFiles/edit_cache.dir
+/Users/enriqueharo/github/kompililo/build/CMakeFiles/rebuild_cache.dir
